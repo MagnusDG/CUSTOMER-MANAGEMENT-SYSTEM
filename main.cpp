@@ -95,8 +95,9 @@ void deleteNode(Node* node) {
 }
 
 void sortList(Node** headPtr, std::function<bool(Customer, Customer)> compareFun, bool ascending) {
-  // Implement a sorting algorithm like merge sort or bubble sort here
-  // and modify the linked list pointed to by headPtr
+  // Implement a sorting algorithm based on your will dud
+  
+  // rmber modify the linked list pointed to by headPtr
 
   // ... Sorting algorithm implementation ...
 
